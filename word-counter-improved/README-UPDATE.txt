@@ -1,0 +1,1 @@
+Word Counter update: replace index.html and style.css in the root GitHub Pages repository. script.js is unchanged and included for completeness. Preserve your Search Console verification HTML file and sitemap.xml in GitHub. Test document uploads, counts and mobile layout before requesting another AdSense review. AdSense approval is not guaranteed.
